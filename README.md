@@ -1,2 +1,3 @@
 # BA-assistant-coin-news-app
 “BA assistant-coin news app”technical support
+"BA assistant-coin news app" is an app to help users understand currency related information. You can see the latest quotation information of currency on the "Currency" page, and click to view the details. In the "Circle" page, you can publish and browse the news, promote the communication between users, and have a shielding and reporting mechanism to supervise the content, so as to ensure the content healthy and legal. We will push a lot of popular information to “Home", and users can read it selectively according to their preferences. Come and experience it…For any comments and suggestions, please contact us:“BA assistant-coin news app” official email:hprswzkb@hotmail.com
